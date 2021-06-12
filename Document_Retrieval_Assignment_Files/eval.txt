@@ -1,0 +1,131 @@
+------------------------------------------- binary
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          65
+Prec/Rec/F across all queries:
+    Precision:       0.10
+    Recall:          0.08
+    F-measure:       0.09
+
+-------------------------------------------  binary_s
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          90
+Prec/Rec/F across all queries:
+    Precision:       0.14
+    Recall:          0.11
+    F-measure:       0.13
+
+-------------------------------------------  binary_p
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          71
+Prec/Rec/F across all queries:
+    Precision:       0.11
+    Recall:          0.09
+    F-measure:       0.10
+
+-------------------------------------------  binary_sp
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          92
+Prec/Rec/F across all queries:
+    Precision:       0.14
+    Recall:          0.12
+    F-measure:       0.13
+
+-------------------------------------------  tf
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          49
+Prec/Rec/F across all queries:
+    Precision:       0.08
+    Recall:          0.06
+    F-measure:       0.07
+
+-------------------------------------------  tf_s
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         106
+Prec/Rec/F across all queries:
+    Precision:       0.17
+    Recall:          0.13
+    F-measure:       0.15
+
+-------------------------------------------  tf_p
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:          72
+Prec/Rec/F across all queries:
+    Precision:       0.11
+    Recall:          0.09
+    F-measure:       0.10
+
+-------------------------------------------  tf_sp
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         123
+Prec/Rec/F across all queries:
+    Precision:       0.19
+    Recall:          0.15
+    F-measure:       0.17
+
+-------------------------------------------  tfidf
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         110
+Prec/Rec/F across all queries:
+    Precision:       0.17
+    Recall:          0.14
+    F-measure:       0.15
+
+-------------------------------------------  tfidf_s
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         119
+Prec/Rec/F across all queries:
+    Precision:       0.19
+    Recall:          0.15
+    F-measure:       0.17
+
+-------------------------------------------  tfidf_p
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         151
+Prec/Rec/F across all queries:
+    Precision:       0.24
+    Recall:          0.19
+    F-measure:       0.21
+
+-------------------------------------------  tfidf_sp
+Total number of queries: 64
+Total number of documents over all queries:
+    Retrieved:        640
+    Relevant:         796
+    Rel_Retr:         162
+Prec/Rec/F across all queries:
+    Precision:       0.25
+    Recall:          0.20
+    F-measure:       0.23

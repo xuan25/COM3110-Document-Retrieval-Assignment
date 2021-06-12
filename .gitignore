@@ -1,0 +1,17 @@
+.vscode
+
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.gz
+*.toc
+
+report.pdf
+__pycache__
+outputs
